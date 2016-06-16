@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Omegle Repeat
-// @namespace    http://simpcraft.com/
-// @version      0.1
+// @namespace    http://tampermonkey.net/
+// @version      0.2
 // @description  try to take over the world!
-// @author       IAP-Reloaded on GitHub
-// @match        http://omegle.com/
+// @author       You
+// @match        http*://*omegle.com/
 // @grant        none
 // ==/UserScript==
 
